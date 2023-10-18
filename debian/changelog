@@ -1,3 +1,10 @@
+node-fs.realpath (1.0.0-3) unstable; urgency=medium
+
+  * Team upload
+  * Fix test for tap >= 15 (--no-cov) (Closes: #1009562)
+
+ -- Yadd <yadd@debian.org>  Fri, 22 Apr 2022 09:57:46 +0200
+
 node-fs.realpath (1.0.0-2) unstable; urgency=medium
 
   * Team upload
